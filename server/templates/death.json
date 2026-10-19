@@ -1,0 +1,48 @@
+{
+  "title": "Death checklist",
+  "note": "Guidance, not legal advice. Please verify with a CA, lawyer, or local authority before acting on any legal or financial step.",
+  "steps": [
+    {
+      "id": "death-certificate",
+      "title": "Death certificate collect karo",
+      "instruction": "Local authorities se death certificate aur certified copies collect karni hoti hain.",
+      "needs": []
+    },
+    {
+      "id": "insurance-claim",
+      "title": "Insurance claim initiate karo",
+      "instruction": "Policy insurer ko formal written intimation dena hota hai aur claim papers collect karna hota hai.",
+      "needs": ["insurance"]
+    },
+    {
+      "id": "bank-fd",
+      "title": "Bank and FD paperwork complete karo",
+      "instruction": "Nominee ko claim, transfer, or account update ke liye bank se contact karna hota hai.",
+      "needs": ["fd"]
+    },
+    {
+      "id": "vehicle-rc",
+      "title": "Vehicle RC aur insurance transfer check karo",
+      "instruction": "RC transfer aur insurance update ke liye RTO/insurer se process samjho.",
+      "needs": ["rc"]
+    },
+    {
+      "id": "property",
+      "title": "Property papers aur legal heir steps dekho",
+      "instruction": "Mutation, legal heir certificate, or property transfer se related steps ko verify karo.",
+      "needs": ["property"]
+    },
+    {
+      "id": "pan",
+      "title": "PAN and tax papers update karo",
+      "instruction": "PAN and tax records ko update karne ki process dekho, especially if the deceased had filings.",
+      "needs": ["pan"]
+    },
+    {
+      "id": "aadhaar",
+      "title": "Aadhaar update / record notice dekho",
+      "instruction": "Aadhaar se related record handling ko UIDAI notification requirements ke hisaab se check karo.",
+      "needs": ["aadhaar"]
+    }
+  ]
+}
